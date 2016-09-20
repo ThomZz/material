@@ -3,7 +3,7 @@
  * @name material.components.autocomplete
  */
 /*
- * @see js folder for autocomplete implementation
+ * @see js folder for autocomplete implementation TEST THOMZ
  */
 angular.module('material.components.autocomplete', [
   'material.core',
